@@ -1,6 +1,6 @@
 # Tableau-Dashboard
 
-This repository is created in the purpose of demonstrating my tableau dashboard. Please find my dashboard in tableau public link.
+This repository has been created to showcase my Tableau dashboard. You can view the dashboard by following the link to my Tableau Public profile.
 
 https://public.tableau.com/app/profile/chandeth.han/vizzes
 
